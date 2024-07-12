@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "main"]
+	url = https://github.com/MadRobin13/DVD-Logo-Game
+	fetch = +refs/heads/*:refs/remotes/main/*
