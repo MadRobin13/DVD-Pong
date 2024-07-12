@@ -8,4 +8,4 @@ Who doesn't?!
 
 **Try to score a high time and see how long you can last!**
 
-*_Link to Vercel Deployment is above_
+*_Link to Vercel deployment is above_
